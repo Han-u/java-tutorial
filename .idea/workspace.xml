@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e843b9-ec6b-42b4-abd9-9d841516eb44" name="Changes" comment="15 컬렉션 프레임워크">
-      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdaPractice.java" afterDir="false" />
+    <list default="true" id="b6e843b9-ec6b-42b4-abd9-9d841516eb44" name="Changes" comment="16 람다식">
+      <change afterPath="$PROJECT_DIR$/src/Stream2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.LambdaPractice">
+  <component name="RunManager" selected="애플리케이션.StreamPractice">
     <configuration name="CollectionFramework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionFramework" />
       <module name="java-tutorial" />
@@ -55,20 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Io" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Io" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LambdaPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdaPractice" />
       <module name="java-tutorial" />
@@ -76,13 +61,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream2" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamPractice" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StreamPractice" />
+        <item itemvalue="애플리케이션.Stream2" />
         <item itemvalue="애플리케이션.LambdaPractice" />
         <item itemvalue="애플리케이션.CollectionFrameworkPractice" />
         <item itemvalue="애플리케이션.CollectionFramework" />
-        <item itemvalue="애플리케이션.Exception" />
-        <item itemvalue="애플리케이션.Io" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658050476721</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="16 람다식">
+      <created>1658057845026</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658057845026</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +244,7 @@
     <MESSAGE value="13 입출력" />
     <MESSAGE value="14 예외처리" />
     <MESSAGE value="15 컬렉션 프레임워크" />
-    <option name="LAST_COMMIT_MESSAGE" value="15 컬렉션 프레임워크" />
+    <MESSAGE value="16 람다식" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 람다식" />
   </component>
 </project>
