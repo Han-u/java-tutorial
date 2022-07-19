@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e843b9-ec6b-42b4-abd9-9d841516eb44" name="Changes" comment="17 stream">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1.java" afterDir="false" />
+    <list default="true" id="b6e843b9-ec6b-42b4-abd9-9d841516eb44" name="Changes" comment="18 연습문제풀이1">
       <change afterPath="$PROJECT_DIR$/src/Practice10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice12.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice13.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice14.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice8.java" afterDir="false" />
@@ -48,42 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.Practice5">
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice1" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice2" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice4" />
-      <module name="java-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="애플리케이션.Practice9">
     <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice5" />
       <module name="java-tutorial" />
@@ -91,13 +57,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice6" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice7" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice8" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice9" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Practice9" />
+        <item itemvalue="애플리케이션.Practice8" />
+        <item itemvalue="애플리케이션.Practice7" />
+        <item itemvalue="애플리케이션.Practice6" />
         <item itemvalue="애플리케이션.Practice5" />
-        <item itemvalue="애플리케이션.Practice4" />
-        <item itemvalue="애플리케이션.Practice3" />
-        <item itemvalue="애플리케이션.Practice2" />
-        <item itemvalue="애플리케이션.Practice1" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658060869880</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="18 연습문제풀이1">
+      <created>1658171417247</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658171417247</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +270,7 @@
     <MESSAGE value="15 컬렉션 프레임워크" />
     <MESSAGE value="16 람다식" />
     <MESSAGE value="17 stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 stream" />
+    <MESSAGE value="18 연습문제풀이1" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 연습문제풀이1" />
   </component>
 </project>
